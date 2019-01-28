@@ -1,0 +1,14 @@
+{
+  "name": "meow-chunk-composition",
+  "version": "1.0.2",
+  "description": "this is the tool which helps you to determine which files go into the chunks in webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "ushakova.ilona@gmail.com",
+  "license": "ISC"
+}
